@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+.search{
+    position: absolute;
+    left:10%;
+    top: 10%;
+}
+
+.container{
+    position: absolute;
+    top:30%;
+}
